@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "jest": "^27.5.1"
+  },
+  "dependencies": {
+    "branch": "^0.0.0"
+  },
+  "scripts": {
+    "test": "jest" 
+  }
+}
