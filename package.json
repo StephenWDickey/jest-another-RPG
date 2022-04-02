@@ -3,9 +3,10 @@
     "jest": "^27.5.1"
   },
   "dependencies": {
-    "branch": "^0.0.0"
+    "branch": "^0.0.0",
+    "inquirer": "^8.2.2"
   },
   "scripts": {
-    "test": "jest" 
+    "test": "jest"
   }
 }
